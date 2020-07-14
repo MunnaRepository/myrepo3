@@ -13,6 +13,7 @@
 	<groupId>com.kloudone</groupId>
 	<artifactId>EurekaServer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>EurekaServer</name>
 	<description>Demo project for Spring Boot</description>
 
